@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1004889105721",
+    "firebase_url": "https://autonomous-pond-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "autonomous-pond-system",
+    "storage_bucket": "autonomous-pond-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004889105721:android:808ec8ca76c1a12639b4e8",
+        "android_client_info": {
+          "package_name": "com.kris.hydro_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOcFD5x-gONwBz-zqLfJ2ztjUpl5GJdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
